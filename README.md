@@ -1,4 +1,3 @@
-"""
 1. El programa solo se puede ejecutar siempre que la partida haya empezado
 dentro de la sala.
     - Hay que poner un receptor de cambios de variable web para detectar el
@@ -35,6 +34,4 @@ mientos legales, o para realizar un movimiento o una coronación.
         - Muestra el resultado final del tablero de la partida a la entrada de la web,
         tal y como se encuentra en la sala de juego.
         - Añadir la
-2. 
-
-""" 
+4. 
